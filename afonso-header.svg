@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Afonso Machado</title>
+  <desc id="desc">Minimal graphite banner introducing Afonso Machado, a Computer Engineering student interested in backend and full-stack development.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161c21"/>
+      <stop offset="100%" stop-color="#222d31"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9db9ae"/>
+      <stop offset="100%" stop-color="#55746e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+  <rect x="0" y="0" width="7" height="300" fill="#94b2a5"/>
+  <g fill="none" stroke="#344a49" stroke-width="1.7" opacity=".7">
+    <path d="M760 55 H968 L1006 93 H1138"/>
+    <path d="M808 83 H940 L1010 153 H1174"/>
+    <path d="M787 118 H922 L965 161 V235 H1128"/>
+    <path d="M843 200 H1018 L1050 168 H1177"/>
+    <path d="M770 251 H956 L990 218 H1166"/>
+    <path d="M986 49 V77"/>
+    <path d="M1087 91 V126"/>
+    <path d="M1128 235 V260"/>
+  </g>
+  <g fill="#8eaca1" opacity=".86">
+    <circle cx="968" cy="55" r="4.3"/><circle cx="1138" cy="93" r="4.3"/>
+    <circle cx="1174" cy="153" r="4.3"/><circle cx="922" cy="118" r="4.3"/>
+    <circle cx="1128" cy="235" r="4.3"/><circle cx="1050" cy="168" r="4.3"/>
+    <circle cx="990" cy="218" r="4.3"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="67" font-size="15" letter-spacing="3" font-weight="700" fill="#a4c0b4">SOFTWARE DEVELOPMENT  /  ISEP</text>
+    <text x="61" y="156" font-size="66" font-weight="700" letter-spacing="-1.8" fill="#f1f3ef">Afonso Machado</text>
+    <rect x="64" y="182" width="83" height="4" rx="2" fill="url(#line)"/>
+    <text x="64" y="224" font-size="24" font-weight="400" letter-spacing=".4" fill="#d0dcd6">Backend  &amp;  Full-stack Development</text>
+    <text x="64" y="264" font-size="15" fill="#9aa8a7">Java   ·   Spring Boot   ·   React   ·   TypeScript</text>
+  </g>
+</svg>
