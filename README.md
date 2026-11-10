@@ -44,22 +44,22 @@ Currently looking for a **curricular internship starting February 2027**.
 
 ### Academic projects
 
-- **LaPrizza — Restaurant Management System** *(in progress)*  
+- [**LaPrizza — Restaurant Management System**](https://github.com/AfonsoMachado1892/Laprizza-restaurant-management) *(in progress)*  
   Full-stack restaurant management application with pizza configuration, REST APIs and data persistence, built with Spring Boot, React, TypeScript and MongoDB.
 
-- [**AISafe — Air Traffic Management System**](https://github.com/AfonsoMachado1892/air-traffic-management-system-sem4)  
+- [**AISafe — Air Traffic Management System**](https://github.com/AfonsoMachado1892/AISafe-Air-traffic-management)  
   Air traffic management and simulation system using Java, C and PostgreSQL, with TCP/UDP communication and automated testing.
 
-- [**Railway Logistics Management System**](https://github.com/AfonsoMachado1892/railway-logistics-management-system-sem3)  
+- [**Railway Logistics Management System**](https://github.com/AfonsoMachado1892/Logistics-on-Rails)  
   Railway operations and warehouse logistics system combining graph algorithms, network analysis, relational databases and C/RISC-V components.
 
-- [**Railway Management Simulator**](https://github.com/AfonsoMachado1892/railway-management-simulator-sem2)  
+- [**Railway Management Simulator**](https://github.com/AfonsoMachado1892/All-Aboard-Railway-management)  
   Railway management simulation with station and locomotive operations, graph-based route planning and supporting Python analysis (Java, JavaFX).
 
-- [**Eigenfaces — Face Recognition System**](https://github.com/AfonsoMachado1892/eigenfaces-face-recognition-sem1)  
+- [**Eigenfaces — Face Recognition System**](https://github.com/AfonsoMachado1892/Eigenfaces-face-recognition)  
   Facial image reconstruction and recognition using eigenvectors, matrix operations and Euclidean distance (Java).
 
-- [**Airport Campus Network Design**](https://github.com/AfonsoMachado1892/airport-campus-network-design-sem4)  
+- [**Airport Campus Network Design**](https://github.com/AfonsoMachado1892/Airport-campus-network)  
   Design and simulation of a multi-terminal airport network using Cisco Packet Tracer, VLANs, OSPF, IPv4, DNS, DHCP and VoIP.
 
 ---
