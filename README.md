@@ -11,7 +11,10 @@ Backend & Full-stack Development
 <a href="mailto:afonsomachado1892@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-233530?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/1241182-AfonsoMachado?tab=repositories">
+<a href="https://afonsomachado1892.github.io/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-233530?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+<a href="https://github.com/AfonsoMachado1892?tab=repositories">
   <img alt="Repositories" src="https://img.shields.io/badge/Repositories-233530?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -44,19 +47,19 @@ Currently looking for a **curricular internship starting February 2027**.
 - **LaPrizza — Restaurant Management System** *(in progress)*  
   Full-stack restaurant management application with pizza configuration, REST APIs and data persistence, built with Spring Boot, React, TypeScript and MongoDB.
 
-- [**AISafe — Air Traffic Management System**](https://github.com/1241182-AfonsoMachado/air-traffic-management-system-sem4)  
+- [**AISafe — Air Traffic Management System**](https://github.com/AfonsoMachado1892/air-traffic-management-system-sem4)  
   Air traffic management and simulation system using Java, C and PostgreSQL, with TCP/UDP communication and automated testing.
 
-- [**Railway Logistics Management System**](https://github.com/1241182-AfonsoMachado/railway-logistics-management-system-sem3)  
+- [**Railway Logistics Management System**](https://github.com/AfonsoMachado1892/railway-logistics-management-system-sem3)  
   Railway operations and warehouse logistics system combining graph algorithms, network analysis, relational databases and C/RISC-V components.
 
-- [**Railway Management Simulator**](https://github.com/1241182-AfonsoMachado/railway-management-simulator-sem2)  
+- [**Railway Management Simulator**](https://github.com/AfonsoMachado1892/railway-management-simulator-sem2)  
   Railway management simulation with station and locomotive operations, graph-based route planning and supporting Python analysis (Java, JavaFX).
 
-- [**Eigenfaces — Face Recognition System**](https://github.com/1241182-AfonsoMachado/eigenfaces-face-recognition-sem1)  
+- [**Eigenfaces — Face Recognition System**](https://github.com/AfonsoMachado1892/eigenfaces-face-recognition-sem1)  
   Facial image reconstruction and recognition using eigenvectors, matrix operations and Euclidean distance (Java).
 
-- [**Airport Campus Network Design**](https://github.com/1241182-AfonsoMachado/airport-campus-network-design-sem4)  
+- [**Airport Campus Network Design**](https://github.com/AfonsoMachado1892/airport-campus-network-design-sem4)  
   Design and simulation of a multi-terminal airport network using Cisco Packet Tracer, VLANs, OSPF, IPv4, DNS, DHCP and VoIP.
 
 ---
